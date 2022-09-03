@@ -1,2 +1,2 @@
-# Front-End
+# JS App
 (Html , Css , bootstrap , Js )
