@@ -1,2 +1,2 @@
 # JS App
-(Html , Css , bootstrap , Js )
+(Html , bootstrap , Js )
