@@ -1,2 +1,2 @@
 # JS App
-(Html , bootstrap , Js )
+Pure JS Crud Operations(Html , bootstrap , Js )
