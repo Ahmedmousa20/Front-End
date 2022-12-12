@@ -1,2 +1,8 @@
 # JS App
-Pure JS Crud Operations(Html , bootstrap , Js )
+Pure JS Crud Operations
+
+Technologies:
+
+.Html 
+.bootstrap 
+.JavaScript
